@@ -9,8 +9,7 @@ while(divisor<=number)
 	{
 	console.log(divisor + " is divisor of " + number)
 	count++;
-	//alert(divisor)
-
+	
 }
 	divisor++;
 }
@@ -23,7 +22,6 @@ var number=100
 var divisor=1
 while(divisor<=number)
 {
-	
 	if(divisor%2==0)
 	{
 		console.log(divisor + " is divisible of " + 2)
